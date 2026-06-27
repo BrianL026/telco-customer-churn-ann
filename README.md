@@ -51,7 +51,13 @@ ANN/
    .venv\Scripts\activate
    ```
 
-2. **Jalankan Aplikasi GUI**
+2. **Instal Pustaka Dependensi**
+   Instal semua pustaka yang dibutuhkan menggunakan file `requirements.txt`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Jalankan Aplikasi GUI**
    Jalankan file `gui_app.py` menggunakan Python dari folder root:
    ```bash
    python src/ui/gui_app.py
