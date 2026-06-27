@@ -4,8 +4,6 @@ Aplikasi desktop berbasis Graphical User Interface (GUI) untuk memvisualisasikan
 
 ## 🛠️ Struktur File Proyek
 
-Berikut adalah struktur folder proyek yang rapi dan modular:
-
 ```text
 ANN/
 ├── .gitignore
